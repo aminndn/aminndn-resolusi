@@ -1,0 +1,8 @@
+AMINNDN RESOLUSI 2021
+- Membuat website pribadi (Portfolio)
+- Membuat CV HTML
+- Membuat program dengan NodeJS
+- Memnbuat Program Android (data karyawan)
+- Membuat Program java untuk penjualan konter
+- Membuat website profil calon kepala daerah/anggota legislatif
+- Membaut game interaktif untuk acara meeting dengan program sederhana
