@@ -3,5 +3,6 @@ RENCANA KONTEN AMINNDN
 - Visualisasi Puisi
   * Puisi dari Blog
   * Puisi baru
+- Kolaborasi
 - Cerita pendek
 - DocuVlog
