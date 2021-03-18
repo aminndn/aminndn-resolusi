@@ -2,7 +2,9 @@ RENCANA KONTEN AMINNDN
 
 - Visualisasi Puisi
   * Puisi dari Blog
+    - dotkom
+    - dotkoid
   * Puisi baru
-- Kolaborasi
 - Cerita pendek
+  * dari temen
 - DocuVlog
