@@ -2,7 +2,10 @@ RENCANA KONTEN AMINNDN
 
 - Visualisasi Puisi
   * Puisi dari Blog
+    - blogspot
   * Puisi baru
 - Kolaborasi
 - Cerita pendek
+  * Kisah teman
 - DocuVlog
+- Tutorial
