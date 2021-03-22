@@ -9,3 +9,5 @@ RENCANA KONTEN AMINNDN
   * Kisah teman
 - DocuVlog
 - Tutorial
+- Belajar ReactJS
+- Perdalam HTML
